@@ -46,4 +46,6 @@
 
 ### 推送本地分支到远程仓库
 
-git push git-demo master
+git pull  git@github.com:askfgh/git-demo.git master
+
+git push git@github.com:askfgh/git-demo.git master
