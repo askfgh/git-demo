@@ -49,3 +49,7 @@
 git pull  git@github.com:askfgh/git-demo.git master
 
 git push git@github.com:askfgh/git-demo.git master
+
+
+
+1：
